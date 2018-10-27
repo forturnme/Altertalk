@@ -1,5 +1,4 @@
-# Welcome to Git
----------------
+# Welcome to this Git !
 ### About this Repository
 This is for Group 17 at HITSZ Software-Engineering course 2018.
 
